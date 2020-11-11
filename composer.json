@@ -1,0 +1,11 @@
+{
+    "name": "milos/quantoxtest",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Milos Stanic",
+            "email": "milos.stanic@gmail.com"
+        }
+    ],
+    "require": {}
+}
