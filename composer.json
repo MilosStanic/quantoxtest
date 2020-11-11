@@ -12,5 +12,7 @@
             "email": "milos.stanic@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "aura/sql": "^3.0"
+    }
 }
