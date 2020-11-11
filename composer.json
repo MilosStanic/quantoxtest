@@ -1,6 +1,11 @@
 {
     "name": "milos/quantoxtest",
     "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
     "authors": [
         {
             "name": "Milos Stanic",
